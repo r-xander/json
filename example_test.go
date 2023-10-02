@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/pkg/json"
+	"github.com/r-xander/json"
 )
 
 func ExampleScanner_Next() {

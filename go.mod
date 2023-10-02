@@ -1,3 +1,3 @@
-module github.com/pkg/json
+module github.com/r-xander/json
 
-go 1.15
+go 1.21.0
